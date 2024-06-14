@@ -9,7 +9,7 @@
 - HTML: Structure and layout of the game.
 - CSS: Styling and visual presentation.
 - JavaScript: Game logic and interactivity.
-- 
+
 ### Features
 - Interactive 3x3 grid for gameplay.
 - Turn-based gameplay with visual indication of the current player.
